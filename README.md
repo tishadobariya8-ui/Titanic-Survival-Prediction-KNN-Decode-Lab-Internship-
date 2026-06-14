@@ -1,4 +1,4 @@
-# Titanic-Survival-Prediction-KNN-Decode-Lab-Internship-
+# Titanic Survival Prediction using KNN
 Project Overview
 
 This project predicts whether a passenger survived the Titanic disaster using the K-Nearest Neighbors (KNN) classification algorithm.
