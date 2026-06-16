@@ -56,7 +56,8 @@ df["Survived"].value_counts().plot(
 )
 plt.xlabel("Survived")
 plt.ylabel("Count")
-plt.show()
+plt.savefig("survival_distribution.png")
+plt.close()
 print(df["Survived"].value_counts())
 
 # Train-Test Split (with stratify)
